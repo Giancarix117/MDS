@@ -38,8 +38,7 @@
             android:layout_width="147dp"
             android:layout_height="82dp"
             android:adjustViewBounds="true"
-            android:src="@drawable/mds1"
-            />
+             />
 
         <!-- Edit text provided to user to
              enter email, username or phone no.-->
@@ -71,7 +70,7 @@
             />
 
         <!-- material button is used to display the "Login" button to user-->
-        <Button
+        <com.google.android.material.button.MaterialButton
             android:id="@+id/button3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -83,7 +82,7 @@
             android:layout_marginTop="18dp"
             android:backgroundTint="#3897f0"
             app:cornerRadius="4dp"/>
-        <Button
+        <com.google.android.material.button.MaterialButton
             android:id="@+id/button4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
