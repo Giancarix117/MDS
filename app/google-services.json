@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848476108148",
+    "project_id": "mashagram2",
+    "storage_bucket": "mashagram2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848476108148:android:95781f7868825ac29ae821",
+        "android_client_info": {
+          "package_name": "com.example.mashgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848476108148-h2jm6ogr5g8d5hhkbr8bg8eb8rq1e3j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQp4C-RNFbzyJbAVVTAUrioxHeb8nI4Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848476108148-h2jm6ogr5g8d5hhkbr8bg8eb8rq1e3j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
